@@ -1,6 +1,6 @@
 # To run app
 
-git clone `https://github.com/ishimoron/pagination-app.git`=>
+`git clone https://github.com/ishimoron/pagination-app.git`=>
 `npm install` =>
 `npm run dev`
 
