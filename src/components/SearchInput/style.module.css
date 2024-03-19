@@ -1,0 +1,10 @@
+.search {
+	width: 100%;
+	margin-bottom: 2rem;
+}
+
+.searchInput::-webkit-outer-spin-button,
+.searchInput::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
